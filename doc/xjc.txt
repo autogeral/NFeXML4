@@ -1,0 +1,24 @@
+//Comando para criar classes para envio, inutilizacao, consulta de status
+xjc file:///C:/Users/Murilo.Lima/Documents/DBFAssinado/NFeXML4/src/br/com/jcomputacao/nfe/xml/pl008h2/tiposBasico_v3.10.xsd file:///C:/Users/Murilo.Lima/Documents/DBFAssinado/NFeXML4/src/br/com/jcomputacao/nfe/xml/pl008h2/leiauteInutNFe_v3.10.xsd file:///C:/Users/Murilo.Lima/Documents/DBFAssinado/NFeXML4/src/br/com/jcomputacao/nfe/xml/pl008h2/leiauteNFe_v3.10.xsd -d ///C:/Users/Murilo.Lima/Documents/DBFAssinado/NFeXML4/src/br/inf/portalfiscal/nfe/xml/pl008h2/nfes
+
+xjc file:///C:/Users/Murilo.Lima/Documents/DBFAssinado/NFeXML4/src/br/com/jcomputacao/nfe/xml/pl008h2/tiposBasico_v3.10.xsd file:///C:/Users/Murilo.Lima/Documents/DBFAssinado/NFeXML4/src/br/com/jcomputacao/nfe/xml/pl008h2/leiauteConsStatServ_v3.10.xsd file:///C:/Users/Murilo.Lima/Documents/DBFAssinado/NFeXML4/src/br/com/jcomputacao/nfe/xml/pl008h2/leiauteConsSitNFe_v3.10.xsd -d ///C:/Users/Murilo.Lima/Documents/DBFAssinado/NFeXML4/src/br/inf/portalfiscal/nfe/xml/pl008h2/nfes
+
+
+ESSA ANOOTATION FOI COLOCADA NO FIM DO ARQUIVO tipoBasico_v1.03.xsd ANTES DE FECHAR O </xs:schema>
+
+       <xs:annotation>
+           <xs:appinfo>
+              <jaxb:globalBindings typesafeEnumMaxMembers="1000" />
+           </xs:appinfo>
+       </xs:annotation>
+
+E NO CABEÃALHO (<xs:schema) FOI COLOCADO:
+xmlns:jaxb="http://java.sun.com/xml/ns/jaxb" jaxb:version="2.0"
+
+
+//Comando para criar classes para Evento Cancelar
+xjc file:///C:/Users/Murilo.Lima/Documents/DBFAssinado/NFeXML4/src/br/com/jcomputacao/eventoCanc/xml/pl006q/tiposBasico_v1.03.xsd file:///C:/Users/Murilo.Lima/Documents/DBFAssinado/NFeXML4/src/br/com/jcomputacao/eventoCanc/xml/pl006q/leiauteEventoCancNFe_v1.00.xsd -d ///C:/Users/Murilo.Lima/Documents/DBFAssinado/NFeXML4/src/br/inf/portalfiscal/eventoCanc/xml/pl006q/nfes
+
+
+Foram feitos em comandos e pacotes separados, pois envio, inutilizacao, consulta de status passaram para versao 3.10 mas o cancelamento
+continuou na versÃ£o 1.0

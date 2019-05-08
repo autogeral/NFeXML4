@@ -16652,10 +16652,11 @@ public class TNFe {
                         "cst",
                         "vbcstRet",
                         "pst",
-                        "vicmsstRet",
+                        "vicmsSubstituto",
+                        "vicmsstRet",                        
                         "vbcfcpstRet",
                         "pfcpstRet",
-                        "vfcpstRet"
+                        "vfcpstRet"                       
                     })
                     public static class ICMS60 {
 
@@ -16667,14 +16668,16 @@ public class TNFe {
                         protected String vbcstRet;
                         @XmlElement(name = "pST")
                         protected String pst;
+                        @XmlElement(name = "vICMSSubstituto")
+                        protected String vicmsSubstituto;
                         @XmlElement(name = "vICMSSTRet")
-                        protected String vicmsstRet;
+                        protected String vicmsstRet;                        
                         @XmlElement(name = "vBCFCPSTRet")
                         protected String vbcfcpstRet;
                         @XmlElement(name = "pFCPSTRet")
                         protected String pfcpstRet;
                         @XmlElement(name = "vFCPSTRet")
-                        protected String vfcpstRet;
+                        protected String vfcpstRet;                        
 
                         /**
                          * Obtém o valor da propriedade orig.
@@ -16770,6 +16773,20 @@ public class TNFe {
                          */
                         public void setPST(String value) {
                             this.pst = value;
+                        }
+                        
+                        public String getVICMSSubstituto() {
+                            return vicmsSubstituto;
+                        }
+
+                        /**
+                         * Define o valor da propriedade vicmsSubstituto.
+                         *
+                         * @param value allowed object is {@link String }
+                         *
+                         */
+                        public void setVICMSSubstituto(String value) {
+                            this.vicmsSubstituto = value;
                         }
 
                         /**
@@ -16867,8 +16884,8 @@ public class TNFe {
                         public void setVFCPSTRet(String value) {
                             this.vfcpstRet = value;
                         }
-
-                    }
+                                                                                            
+                        }
 
 
                     /**

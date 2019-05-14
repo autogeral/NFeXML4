@@ -5,5 +5,5 @@
 // Gerado em: 2019.05.14 às 12:50:17 PM BRT 
 //
 
-@javax.xml.bind.annotation.XmlSchema(namespace = "http://www.w3.org/2000/09/xmldsig#", elementFormDefault = javax.xml.bind.annotation.XmlNsForm.QUALIFIED)
-package org.w3._2000._09.xmldsig_;
+@javax.xml.bind.annotation.XmlSchema(namespace = "http://www.portalfiscal.inf.br/nfe", elementFormDefault = javax.xml.bind.annotation.XmlNsForm.QUALIFIED)
+package br.inf.portalfiscal.nfe.xml.pl009v4_2019.nfes;

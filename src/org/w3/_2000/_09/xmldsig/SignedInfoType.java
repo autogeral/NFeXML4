@@ -1,8 +1,8 @@
 //
-// Este arquivo foi gerado pela Arquitetura JavaTM para Implementação de Referência (JAXB) de Bind XML, v2.2.8-b130911.1802 
+// Este arquivo foi gerado pela Arquitetura JavaTM para Implementaï¿½ï¿½o de Referï¿½ncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
 // Consulte <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
-// Todas as modificações neste arquivo serão perdidas após a recompilação do esquema de origem. 
-// Gerado em: 2019.05.14 às 12:50:17 PM BRT 
+// Todas as modificaï¿½ï¿½es neste arquivo serï¿½o perdidas apï¿½s a recompilaï¿½ï¿½o do esquema de origem. 
+// Gerado em: 2021.06.14 ï¿½s 11:18:47 AM BRT 
 //
 
 
@@ -22,7 +22,7 @@ import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
 /**
  * <p>Classe Java de SignedInfoType complex type.
  * 
- * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+ * <p>O seguinte fragmento do esquema especifica o conteï¿½do esperado contido dentro desta classe.
  * 
  * <pre>
  * &lt;complexType name="SignedInfoType">
@@ -78,7 +78,7 @@ public class SignedInfoType {
     protected String id;
 
     /**
-     * Obtém o valor da propriedade canonicalizationMethod.
+     * Obtï¿½m o valor da propriedade canonicalizationMethod.
      * 
      * @return
      *     possible object is
@@ -102,7 +102,7 @@ public class SignedInfoType {
     }
 
     /**
-     * Obtém o valor da propriedade signatureMethod.
+     * Obtï¿½m o valor da propriedade signatureMethod.
      * 
      * @return
      *     possible object is
@@ -126,7 +126,7 @@ public class SignedInfoType {
     }
 
     /**
-     * Obtém o valor da propriedade reference.
+     * Obtï¿½m o valor da propriedade reference.
      * 
      * @return
      *     possible object is
@@ -150,7 +150,7 @@ public class SignedInfoType {
     }
 
     /**
-     * Obtém o valor da propriedade id.
+     * Obtï¿½m o valor da propriedade id.
      * 
      * @return
      *     possible object is
@@ -177,7 +177,7 @@ public class SignedInfoType {
     /**
      * <p>Classe Java de anonymous complex type.
      * 
-     * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+     * <p>O seguinte fragmento do esquema especifica o conteï¿½do esperado contido dentro desta classe.
      * 
      * <pre>
      * &lt;complexType>
@@ -200,7 +200,7 @@ public class SignedInfoType {
         protected String algorithm;
 
         /**
-         * Obtém o valor da propriedade algorithm.
+         * Obtï¿½m o valor da propriedade algorithm.
          * 
          * @return
          *     possible object is
@@ -233,7 +233,7 @@ public class SignedInfoType {
     /**
      * <p>Classe Java de anonymous complex type.
      * 
-     * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+     * <p>O seguinte fragmento do esquema especifica o conteï¿½do esperado contido dentro desta classe.
      * 
      * <pre>
      * &lt;complexType>
@@ -256,7 +256,7 @@ public class SignedInfoType {
         protected String algorithm;
 
         /**
-         * Obtém o valor da propriedade algorithm.
+         * Obtï¿½m o valor da propriedade algorithm.
          * 
          * @return
          *     possible object is

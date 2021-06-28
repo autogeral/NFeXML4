@@ -928,6 +928,102 @@ public class ObjectFactory {
     public TIpi.IPINT createTIpiIPINT() {
         return new TIpi.IPINT();
     }
+    
+     /**
+     * Create an instance of {@link TEvento }
+     * 
+     */
+    public br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TEvento createTEvento() {
+        return new br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TEvento();
+    }
+
+    /**
+     * Create an instance of {@link TEvento.InfEvento }
+     * 
+     */
+    public br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TEvento.InfEvento createTEventoInfEvento() {
+        return new br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TEvento.InfEvento();
+    }
+
+    /**
+     * Create an instance of {@link TRetCancNFe }
+     * 
+     */
+    public br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TRetCancNFe createTRetCancNFe() {
+        return new br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TRetCancNFe();
+    }
+
+    /**
+     * Create an instance of {@link TRetEvento }
+     * 
+     */
+    public br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TRetEvento createTRetEvento() {
+        return new br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TRetEvento();
+    }
+
+    /**
+     * Create an instance of {@link TRetConsSitNFe }
+     * 
+     */
+    public br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TRetConsSitNFe createTRetConsSitNFe() {
+        return new br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TRetConsSitNFe();
+    }
+
+    /**
+     * Create an instance of {@link TConsStatServ }
+     * 
+     */
+    public br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TConsStatServ createTConsStatServ() {
+        return new br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TConsStatServ();
+    }
+
+    /**
+     * Create an instance of {@link TConsSitNFe }
+     * 
+     */
+    public br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TConsSitNFe createTConsSitNFe() {
+        return new br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TConsSitNFe();
+    }
+
+    /**
+     * Create an instance of {@link TProcEvento }
+     * 
+     */
+    public br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TProcEvento createTProcEvento() {
+        return new br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TProcEvento();
+    }
+
+    /**
+     * Create an instance of {@link TRetConsStatServ }
+     * 
+     */
+    public br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TRetConsStatServ createTRetConsStatServ() {
+        return new br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TRetConsStatServ();
+    }
+
+    /**
+     * Create an instance of {@link TEvento.InfEvento.DetEvento }
+     * 
+     */
+    public br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TEvento.InfEvento.DetEvento createTEventoInfEventoDetEvento() {
+        return new br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TEvento.InfEvento.DetEvento();
+    }
+
+    /**
+     * Create an instance of {@link TRetCancNFe.InfCanc }
+     * 
+     */
+    public br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TRetCancNFe.InfCanc createTRetCancNFeInfCanc() {
+        return new br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TRetCancNFe.InfCanc();
+    }
+
+    /**
+     * Create an instance of {@link TRetEvento.InfEvento }
+     * 
+     */
+    public br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TRetEvento.InfEvento createTRetEventoInfEvento() {
+        return new br.inf.portalfiscal.nfe.xml.pl009v4_2021.nfes.TRetEvento.InfEvento();
+    }
 
     /**
      * Create an instance of {@link JAXBElement }{@code <}{@link TNFe.InfNFe.Det.Imposto.ICMS }{@code >}}

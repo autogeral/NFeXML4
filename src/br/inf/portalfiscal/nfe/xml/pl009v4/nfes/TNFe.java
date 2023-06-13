@@ -13932,6 +13932,7 @@ public class TNFe {
                     "icms40",
                     "icms51",
                     "icms60",
+                    "icms61",
                     "icms70",
                     "icms90",
                     "icmsPart",
@@ -13959,6 +13960,8 @@ public class TNFe {
                     protected TNFe.InfNFe.Det.Imposto.ICMS.ICMS51 icms51;
                     @XmlElement(name = "ICMS60")
                     protected TNFe.InfNFe.Det.Imposto.ICMS.ICMS60 icms60;
+                    @XmlElement(name = "ICMS61")
+                    protected TNFe.InfNFe.Det.Imposto.ICMS.ICMS61 icms61;                 
                     @XmlElement(name = "ICMS70")
                     protected TNFe.InfNFe.Det.Imposto.ICMS.ICMS70 icms70;
                     @XmlElement(name = "ICMS90")
@@ -14147,6 +14150,17 @@ public class TNFe {
                     public void setICMS60(TNFe.InfNFe.Det.Imposto.ICMS.ICMS60 value) {
                         this.icms60 = value;
                     }
+
+                 
+                    public TNFe.InfNFe.Det.Imposto.ICMS.ICMS61 getICMS61(){
+                        return icms61;
+                    }
+
+                    public void setIcms61(TNFe.InfNFe.Det.Imposto.ICMS.ICMS61 value) {
+                        this.icms61 = icms61;
+                    }
+                    
+                    
 
                     /**
                      * Obtém o valor da propriedade icms70.
@@ -16886,7 +16900,76 @@ public class TNFe {
                         }
                                                                                             
                         }
+                    
+                    
+                    
+                    @XmlAccessorType(XmlAccessType.FIELD)
+                    @XmlType(name = "", propOrder = {
+                        "orig",
+                        "cst",
+                        "qBCMonoRet",
+                        "adRemICMSRet",
+                        "vICMSMonoRet"
+                    })
 
+                    public static class ICMS61{
+                        @XmlElement(required = true)
+                        protected String orig;
+                        @XmlElement(name = "CST", required = true)
+                        protected String cst;
+                        @XmlElement(required = true)
+                        protected String  qBCMonoRet;
+                        @XmlElement(name = "adRemICMSRet", required = true)
+                        protected String adRemICMSRet;
+                        @XmlElement(name = "vICMSMonoRet", required = true)
+                        protected String vICMSMonoRet;
+
+                        public String getOrig() {
+                            return orig;
+                        }
+
+                        public void setOrig(String orig) {
+                            this.orig = orig;
+                        }
+
+                        public String getCst() {
+                            return cst;
+                        }
+
+                        public void setCst(String cst) {
+                            this.cst = cst;
+                        }
+
+                        public String getqBCMonoRet() {
+                            return qBCMonoRet;
+                        }
+
+                        public void setqBCMonoRet(String qBCMonoRet) {
+                            this.qBCMonoRet = qBCMonoRet;
+                        }
+
+                        public String getAdRemICMSRet() {
+                            return adRemICMSRet;
+                        }
+
+                        public void setAdRemICMSRet(String adRemICMSRet) {
+                            this.adRemICMSRet = adRemICMSRet;
+                        }
+
+                        public String getvICMSMonoRet() {
+                            return vICMSMonoRet;
+                        }
+
+                        public void setvICMSMonoRet(String vICMSMonoRet) {
+                            this.vICMSMonoRet = vICMSMonoRet;
+                        }
+                     
+                        
+                        
+                        
+                    }
+                    
+                    
 
                     /**
                      * <p>Classe Java de anonymous complex type.

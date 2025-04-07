@@ -1,8 +1,8 @@
 //
-// Este arquivo foi gerado pela Arquitetura JavaTM para Implementa��o de Refer�ncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
+// Este arquivo foi gerado pela Arquitetura JavaTM para Implementaï¿½ï¿½o de Referï¿½ncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
 // Consulte <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
-// Todas as modifica��es neste arquivo ser�o perdidas ap�s a recompila��o do esquema de origem. 
-// Gerado em: 2021.06.14 �s 11:18:47 AM BRT 
+// Todas as modificaï¿½ï¿½es neste arquivo serï¿½o perdidas apï¿½s a recompilaï¿½ï¿½o do esquema de origem. 
+// Gerado em: 2021.06.14 ï¿½s 11:18:47 AM BRT 
 //
 
 
@@ -25,7 +25,7 @@ import org.w3._2000._09.xmldsig.SignatureType;
  * 
  * <p>Classe Java de TProtNFe complex type.
  * 
- * <p>O seguinte fragmento do esquema especifica o conte�do esperado contido dentro desta classe.
+ * <p>O seguinte fragmento do esquema especifica o conteï¿½do esperado contido dentro desta classe.
  * 
  * <pre>
  * &lt;complexType name="TProtNFe">
@@ -94,7 +94,7 @@ public class TProtNFe {
     protected String versao;
 
     /**
-     * Obt�m o valor da propriedade infProt.
+     * Obtï¿½m o valor da propriedade infProt.
      * 
      * @return
      *     possible object is
@@ -118,7 +118,7 @@ public class TProtNFe {
     }
 
     /**
-     * Obt�m o valor da propriedade signature.
+     * Obtï¿½m o valor da propriedade signature.
      * 
      * @return
      *     possible object is
@@ -142,7 +142,7 @@ public class TProtNFe {
     }
 
     /**
-     * Obt�m o valor da propriedade versao.
+     * Obtï¿½m o valor da propriedade versao.
      * 
      * @return
      *     possible object is
@@ -169,7 +169,7 @@ public class TProtNFe {
     /**
      * <p>Classe Java de anonymous complex type.
      * 
-     * <p>O seguinte fragmento do esquema especifica o conte�do esperado contido dentro desta classe.
+     * <p>O seguinte fragmento do esquema especifica o conteï¿½do esperado contido dentro desta classe.
      * 
      * <pre>
      * &lt;complexType>
@@ -249,7 +249,7 @@ public class TProtNFe {
         protected String id;
 
         /**
-         * Obt�m o valor da propriedade tpAmb.
+         * Obtï¿½m o valor da propriedade tpAmb.
          * 
          * @return
          *     possible object is
@@ -273,7 +273,7 @@ public class TProtNFe {
         }
 
         /**
-         * Obt�m o valor da propriedade verAplic.
+         * Obtï¿½m o valor da propriedade verAplic.
          * 
          * @return
          *     possible object is
@@ -297,7 +297,7 @@ public class TProtNFe {
         }
 
         /**
-         * Obt�m o valor da propriedade chNFe.
+         * Obtï¿½m o valor da propriedade chNFe.
          * 
          * @return
          *     possible object is
@@ -321,7 +321,7 @@ public class TProtNFe {
         }
 
         /**
-         * Obt�m o valor da propriedade dhRecbto.
+         * Obtï¿½m o valor da propriedade dhRecbto.
          * 
          * @return
          *     possible object is
@@ -345,7 +345,7 @@ public class TProtNFe {
         }
 
         /**
-         * Obt�m o valor da propriedade nProt.
+         * Obtï¿½m o valor da propriedade nProt.
          * 
          * @return
          *     possible object is
@@ -369,7 +369,7 @@ public class TProtNFe {
         }
 
         /**
-         * Obt�m o valor da propriedade digVal.
+         * Obtï¿½m o valor da propriedade digVal.
          * 
          * @return
          *     possible object is
@@ -391,7 +391,7 @@ public class TProtNFe {
         }
 
         /**
-         * Obt�m o valor da propriedade cStat.
+         * Obtï¿½m o valor da propriedade cStat.
          * 
          * @return
          *     possible object is
@@ -415,7 +415,7 @@ public class TProtNFe {
         }
 
         /**
-         * Obt�m o valor da propriedade xMotivo.
+         * Obtï¿½m o valor da propriedade xMotivo.
          * 
          * @return
          *     possible object is
@@ -439,7 +439,7 @@ public class TProtNFe {
         }
 
         /**
-         * Obt�m o valor da propriedade cMsg.
+         * Obtï¿½m o valor da propriedade cMsg.
          * 
          * @return
          *     possible object is
@@ -463,7 +463,7 @@ public class TProtNFe {
         }
 
         /**
-         * Obt�m o valor da propriedade xMsg.
+         * Obtï¿½m o valor da propriedade xMsg.
          * 
          * @return
          *     possible object is
@@ -487,7 +487,7 @@ public class TProtNFe {
         }
 
         /**
-         * Obt�m o valor da propriedade id.
+         * Obtï¿½m o valor da propriedade id.
          * 
          * @return
          *     possible object is

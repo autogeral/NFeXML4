@@ -1,8 +1,8 @@
 //
-// Este arquivo foi gerado pela Arquitetura JavaTM para Implementa��o de Refer�ncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
+// Este arquivo foi gerado pela Arquitetura JavaTM para Implementaï¿½ï¿½o de Referï¿½ncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
 // Consulte <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
-// Todas as modifica��es neste arquivo ser�o perdidas ap�s a recompila��o do esquema de origem. 
-// Gerado em: 2021.06.14 �s 11:18:47 AM BRT 
+// Todas as modificaï¿½ï¿½es neste arquivo serï¿½o perdidas apï¿½s a recompilaï¿½ï¿½o do esquema de origem. 
+// Gerado em: 2021.06.14 ï¿½s 11:18:47 AM BRT 
 //
 
 
@@ -18,11 +18,11 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * Tipo Retorno do Pedido de  Consulta do Recido do Lote de Notas Fiscais Eletr�nicas
+ * Tipo Retorno do Pedido de  Consulta do Recido do Lote de Notas Fiscais Eletrï¿½nicas
  * 
  * <p>Classe Java de TRetConsReciNFe complex type.
  * 
- * <p>O seguinte fragmento do esquema especifica o conte�do esperado contido dentro desta classe.
+ * <p>O seguinte fragmento do esquema especifica o conteï¿½do esperado contido dentro desta classe.
  * 
  * <pre>
  * &lt;complexType name="TRetConsReciNFe">
@@ -100,7 +100,7 @@ public class TRetConsReciNFe {
     protected String versao;
 
     /**
-     * Obt�m o valor da propriedade tpAmb.
+     * Obtï¿½m o valor da propriedade tpAmb.
      * 
      * @return
      *     possible object is
@@ -124,7 +124,7 @@ public class TRetConsReciNFe {
     }
 
     /**
-     * Obt�m o valor da propriedade verAplic.
+     * Obtï¿½m o valor da propriedade verAplic.
      * 
      * @return
      *     possible object is
@@ -148,7 +148,7 @@ public class TRetConsReciNFe {
     }
 
     /**
-     * Obt�m o valor da propriedade nRec.
+     * Obtï¿½m o valor da propriedade nRec.
      * 
      * @return
      *     possible object is
@@ -172,7 +172,7 @@ public class TRetConsReciNFe {
     }
 
     /**
-     * Obt�m o valor da propriedade cStat.
+     * Obtï¿½m o valor da propriedade cStat.
      * 
      * @return
      *     possible object is
@@ -196,7 +196,7 @@ public class TRetConsReciNFe {
     }
 
     /**
-     * Obt�m o valor da propriedade xMotivo.
+     * Obtï¿½m o valor da propriedade xMotivo.
      * 
      * @return
      *     possible object is
@@ -220,7 +220,7 @@ public class TRetConsReciNFe {
     }
 
     /**
-     * Obt�m o valor da propriedade cuf.
+     * Obtï¿½m o valor da propriedade cuf.
      * 
      * @return
      *     possible object is
@@ -244,7 +244,7 @@ public class TRetConsReciNFe {
     }
 
     /**
-     * Obt�m o valor da propriedade dhRecbto.
+     * Obtï¿½m o valor da propriedade dhRecbto.
      * 
      * @return
      *     possible object is
@@ -268,7 +268,7 @@ public class TRetConsReciNFe {
     }
 
     /**
-     * Obt�m o valor da propriedade cMsg.
+     * Obtï¿½m o valor da propriedade cMsg.
      * 
      * @return
      *     possible object is
@@ -292,7 +292,7 @@ public class TRetConsReciNFe {
     }
 
     /**
-     * Obt�m o valor da propriedade xMsg.
+     * Obtï¿½m o valor da propriedade xMsg.
      * 
      * @return
      *     possible object is
@@ -345,7 +345,7 @@ public class TRetConsReciNFe {
     }
 
     /**
-     * Obt�m o valor da propriedade versao.
+     * Obtï¿½m o valor da propriedade versao.
      * 
      * @return
      *     possible object is

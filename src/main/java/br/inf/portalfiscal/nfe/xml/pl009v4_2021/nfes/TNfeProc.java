@@ -1,8 +1,8 @@
 //
-// Este arquivo foi gerado pela Arquitetura JavaTM para Implementa��o de Refer�ncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
+// Este arquivo foi gerado pela Arquitetura JavaTM para Implementaï¿½ï¿½o de Referï¿½ncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
 // Consulte <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
-// Todas as modifica��es neste arquivo ser�o perdidas ap�s a recompila��o do esquema de origem. 
-// Gerado em: 2021.06.14 �s 11:18:47 AM BRT 
+// Todas as modificaï¿½ï¿½es neste arquivo serï¿½o perdidas apï¿½s a recompilaï¿½ï¿½o do esquema de origem. 
+// Gerado em: 2021.06.14 ï¿½s 11:18:47 AM BRT 
 //
 
 
@@ -21,7 +21,7 @@ import javax.xml.bind.annotation.XmlType;
  * 
  * <p>Classe Java de TNfeProc complex type.
  * 
- * <p>O seguinte fragmento do esquema especifica o conte�do esperado contido dentro desta classe.
+ * <p>O seguinte fragmento do esquema especifica o conteï¿½do esperado contido dentro desta classe.
  * 
  * <pre>
  * &lt;complexType name="TNfeProc">
@@ -55,7 +55,7 @@ public class TNfeProc {
     protected String versao;
 
     /**
-     * Obt�m o valor da propriedade nFe.
+     * Obtï¿½m o valor da propriedade nFe.
      * 
      * @return
      *     possible object is
@@ -79,7 +79,7 @@ public class TNfeProc {
     }
 
     /**
-     * Obt�m o valor da propriedade protNFe.
+     * Obtï¿½m o valor da propriedade protNFe.
      * 
      * @return
      *     possible object is
@@ -103,7 +103,7 @@ public class TNfeProc {
     }
 
     /**
-     * Obt�m o valor da propriedade versao.
+     * Obtï¿½m o valor da propriedade versao.
      * 
      * @return
      *     possible object is

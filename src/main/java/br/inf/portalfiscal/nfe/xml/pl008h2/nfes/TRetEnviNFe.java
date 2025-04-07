@@ -16,7 +16,7 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * Tipo Retorno do Pedido de Autorização da Nota Fiscal Eletrônica
+ * Tipo Retorno do Pedido de AutorizaÃ§Ã£o da Nota Fiscal EletrÃ´nica
  * 
  * <p>Java class for TRetEnviNFe complex type.
  * 

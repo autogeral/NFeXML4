@@ -18,7 +18,7 @@ import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
 
 
 /**
- * Tipo Pedido de Consulta do Status do Serviço
+ * Tipo Pedido de Consulta do Status do ServiÃ§o
  * 
  * <p>Java class for TConsStatServ complex type.
  * 

@@ -1,8 +1,8 @@
 //
-// Este arquivo foi gerado pela Arquitetura JavaTM para Implementa��o de Refer�ncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
+// Este arquivo foi gerado pela Arquitetura JavaTM para Implementaï¿½ï¿½o de Referï¿½ncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
 // Consulte <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
-// Todas as modifica��es neste arquivo ser�o perdidas ap�s a recompila��o do esquema de origem. 
-// Gerado em: 2021.06.14 �s 11:18:47 AM BRT 
+// Todas as modificaï¿½ï¿½es neste arquivo serï¿½o perdidas apï¿½s a recompilaï¿½ï¿½o do esquema de origem. 
+// Gerado em: 2021.06.14 ï¿½s 11:18:47 AM BRT 
 //
 
 
@@ -16,11 +16,11 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * Tipo Dados do Ve�culo
+ * Tipo Dados do Veï¿½culo
  * 
  * <p>Classe Java de TVeiculo complex type.
  * 
- * <p>O seguinte fragmento do esquema especifica o conte�do esperado contido dentro desta classe.
+ * <p>O seguinte fragmento do esquema especifica o conteï¿½do esperado contido dentro desta classe.
  * 
  * <pre>
  * &lt;complexType name="TVeiculo">
@@ -69,7 +69,7 @@ public class TVeiculo {
     protected String rntc;
 
     /**
-     * Obt�m o valor da propriedade placa.
+     * Obtï¿½m o valor da propriedade placa.
      * 
      * @return
      *     possible object is
@@ -93,7 +93,7 @@ public class TVeiculo {
     }
 
     /**
-     * Obt�m o valor da propriedade uf.
+     * Obtï¿½m o valor da propriedade uf.
      * 
      * @return
      *     possible object is
@@ -117,7 +117,7 @@ public class TVeiculo {
     }
 
     /**
-     * Obt�m o valor da propriedade rntc.
+     * Obtï¿½m o valor da propriedade rntc.
      * 
      * @return
      *     possible object is

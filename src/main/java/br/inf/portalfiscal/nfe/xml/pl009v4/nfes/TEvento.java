@@ -1,8 +1,8 @@
 //
-// Este arquivo foi gerado pela Arquitetura JavaTM para Implementação de Referência (JAXB) de Bind XML, v2.2.8-b130911.1802 
+// Este arquivo foi gerado pela Arquitetura JavaTM para ImplementaÃ§Ã£o de ReferÃªncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
 // Consulte <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
-// Todas as modificações neste arquivo serão perdidas após a recompilação do esquema de origem. 
-// Gerado em: 2018.06.14 às 11:26:52 AM BRT 
+// Todas as modificaÃ§Ãµes neste arquivo serÃ£o perdidas apÃ³s a recompilaÃ§Ã£o do esquema de origem. 
+// Gerado em: 2018.06.14 Ã s 11:26:52 AM BRT 
 //
 
 
@@ -33,7 +33,7 @@ import org.w3c.dom.Element;
  * 
  * <p>Classe Java de TEvento complex type.
  * 
- * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+ * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
  * 
  * <pre>
  * &lt;complexType name="TEvento">
@@ -126,7 +126,7 @@ public class TEvento {
     protected String versao;
 
     /**
-     * Obtém o valor da propriedade infEvento.
+     * ObtÃ©m o valor da propriedade infEvento.
      * 
      * @return
      *     possible object is
@@ -150,7 +150,7 @@ public class TEvento {
     }
 
     /**
-     * Obtém o valor da propriedade signature.
+     * ObtÃ©m o valor da propriedade signature.
      * 
      * @return
      *     possible object is
@@ -174,7 +174,7 @@ public class TEvento {
     }
 
     /**
-     * Obtém o valor da propriedade versao.
+     * ObtÃ©m o valor da propriedade versao.
      * 
      * @return
      *     possible object is
@@ -201,7 +201,7 @@ public class TEvento {
     /**
      * <p>Classe Java de anonymous complex type.
      * 
-     * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+     * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
      * 
      * <pre>
      * &lt;complexType>
@@ -307,7 +307,7 @@ public class TEvento {
         protected String id;
 
         /**
-         * Obtém o valor da propriedade cOrgao.
+         * ObtÃ©m o valor da propriedade cOrgao.
          * 
          * @return
          *     possible object is
@@ -331,7 +331,7 @@ public class TEvento {
         }
 
         /**
-         * Obtém o valor da propriedade tpAmb.
+         * ObtÃ©m o valor da propriedade tpAmb.
          * 
          * @return
          *     possible object is
@@ -355,7 +355,7 @@ public class TEvento {
         }
 
         /**
-         * Obtém o valor da propriedade cnpj.
+         * ObtÃ©m o valor da propriedade cnpj.
          * 
          * @return
          *     possible object is
@@ -379,7 +379,7 @@ public class TEvento {
         }
 
         /**
-         * Obtém o valor da propriedade cpf.
+         * ObtÃ©m o valor da propriedade cpf.
          * 
          * @return
          *     possible object is
@@ -403,7 +403,7 @@ public class TEvento {
         }
 
         /**
-         * Obtém o valor da propriedade chNFe.
+         * ObtÃ©m o valor da propriedade chNFe.
          * 
          * @return
          *     possible object is
@@ -427,7 +427,7 @@ public class TEvento {
         }
 
         /**
-         * Obtém o valor da propriedade dhEvento.
+         * ObtÃ©m o valor da propriedade dhEvento.
          * 
          * @return
          *     possible object is
@@ -451,7 +451,7 @@ public class TEvento {
         }
 
         /**
-         * Obtém o valor da propriedade tpEvento.
+         * ObtÃ©m o valor da propriedade tpEvento.
          * 
          * @return
          *     possible object is
@@ -475,7 +475,7 @@ public class TEvento {
         }
 
         /**
-         * Obtém o valor da propriedade nSeqEvento.
+         * ObtÃ©m o valor da propriedade nSeqEvento.
          * 
          * @return
          *     possible object is
@@ -499,7 +499,7 @@ public class TEvento {
         }
 
         /**
-         * Obtém o valor da propriedade verEvento.
+         * ObtÃ©m o valor da propriedade verEvento.
          * 
          * @return
          *     possible object is
@@ -523,7 +523,7 @@ public class TEvento {
         }
 
         /**
-         * Obtém o valor da propriedade detEvento.
+         * ObtÃ©m o valor da propriedade detEvento.
          * 
          * @return
          *     possible object is
@@ -547,7 +547,7 @@ public class TEvento {
         }
 
         /**
-         * Obtém o valor da propriedade id.
+         * ObtÃ©m o valor da propriedade id.
          * 
          * @return
          *     possible object is
@@ -574,7 +574,7 @@ public class TEvento {
         /**
          * <p>Classe Java de anonymous complex type.
          * 
-         * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+         * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
          * 
          * <pre>
          * &lt;complexType>

@@ -26,7 +26,7 @@ import org.w3._2000._09.xmldsig.SignatureType;
 
 
 /**
- * Tipo Nota Fiscal Eletrônica
+ * Tipo Nota Fiscal EletrÃ´nica
  * 
  * <p>Java class for TNFe complex type.
  * 
@@ -433,7 +433,7 @@ import org.w3._2000._09.xmldsig.SignatureType;
  *                                 &lt;simpleType>
  *                                   &lt;restriction base="{http://www.w3.org/2001/XMLSchema}string">
  *                                     &lt;whiteSpace value="preserve"/>
- *                                     &lt;pattern value="([!-ÿ]{0}|[!-ÿ]{5,20})?"/>
+ *                                     &lt;pattern value="([!-Ã¿]{0}|[!-Ã¿]{5,20})?"/>
  *                                   &lt;/restriction>
  *                                 &lt;/simpleType>
  *                               &lt;/element>
@@ -3465,7 +3465,7 @@ public class TNFe {
      *                       &lt;simpleType>
      *                         &lt;restriction base="{http://www.w3.org/2001/XMLSchema}string">
      *                           &lt;whiteSpace value="preserve"/>
-     *                           &lt;pattern value="([!-ÿ]{0}|[!-ÿ]{5,20})?"/>
+     *                           &lt;pattern value="([!-Ã¿]{0}|[!-Ã¿]{5,20})?"/>
      *                         &lt;/restriction>
      *                       &lt;/simpleType>
      *                     &lt;/element>
@@ -8011,7 +8011,7 @@ public class TNFe {
          *             &lt;simpleType>
          *               &lt;restriction base="{http://www.w3.org/2001/XMLSchema}string">
          *                 &lt;whiteSpace value="preserve"/>
-         *                 &lt;pattern value="([!-ÿ]{0}|[!-ÿ]{5,20})?"/>
+         *                 &lt;pattern value="([!-Ã¿]{0}|[!-Ã¿]{5,20})?"/>
          *               &lt;/restriction>
          *             &lt;/simpleType>
          *           &lt;/element>

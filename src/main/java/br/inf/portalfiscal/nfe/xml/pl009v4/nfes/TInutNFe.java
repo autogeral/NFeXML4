@@ -1,8 +1,8 @@
 //
-// Este arquivo foi gerado pela Arquitetura JavaTM para Implementação de Referência (JAXB) de Bind XML, v2.2.8-b130911.1802 
+// Este arquivo foi gerado pela Arquitetura JavaTM para ImplementaÃ§Ã£o de ReferÃªncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
 // Consulte <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
-// Todas as modificações neste arquivo serão perdidas após a recompilação do esquema de origem. 
-// Gerado em: 2018.06.14 às 11:24:14 AM BRT 
+// Todas as modificaÃ§Ãµes neste arquivo serÃ£o perdidas apÃ³s a recompilaÃ§Ã£o do esquema de origem. 
+// Gerado em: 2018.06.14 Ã s 11:24:14 AM BRT 
 //
 
 
@@ -21,11 +21,11 @@ import org.w3._2000._09.xmldsig.SignatureType;
 
 
 /**
- * Tipo Pedido de Inutilização de Numeração da Nota Fiscal Eletrônica
+ * Tipo Pedido de InutilizaÃ§Ã£o de NumeraÃ§Ã£o da Nota Fiscal EletrÃ´nica
  * 
  * <p>Classe Java de TInutNFe complex type.
  * 
- * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+ * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
  * 
  * <pre>
  * &lt;complexType name="TInutNFe">
@@ -92,7 +92,7 @@ public class TInutNFe {
     protected String versao;
 
     /**
-     * Obtém o valor da propriedade infInut.
+     * ObtÃ©m o valor da propriedade infInut.
      * 
      * @return
      *     possible object is
@@ -116,7 +116,7 @@ public class TInutNFe {
     }
 
     /**
-     * Obtém o valor da propriedade signature.
+     * ObtÃ©m o valor da propriedade signature.
      * 
      * @return
      *     possible object is
@@ -140,7 +140,7 @@ public class TInutNFe {
     }
 
     /**
-     * Obtém o valor da propriedade versao.
+     * ObtÃ©m o valor da propriedade versao.
      * 
      * @return
      *     possible object is
@@ -167,7 +167,7 @@ public class TInutNFe {
     /**
      * <p>Classe Java de anonymous complex type.
      * 
-     * <p>O seguinte fragmento do esquema especifica o conteúdo esperado contido dentro desta classe.
+     * <p>O seguinte fragmento do esquema especifica o conteÃºdo esperado contido dentro desta classe.
      * 
      * <pre>
      * &lt;complexType>
@@ -246,7 +246,7 @@ public class TInutNFe {
         protected String id;
 
         /**
-         * Obtém o valor da propriedade tpAmb.
+         * ObtÃ©m o valor da propriedade tpAmb.
          * 
          * @return
          *     possible object is
@@ -270,7 +270,7 @@ public class TInutNFe {
         }
 
         /**
-         * Obtém o valor da propriedade xServ.
+         * ObtÃ©m o valor da propriedade xServ.
          * 
          * @return
          *     possible object is
@@ -294,7 +294,7 @@ public class TInutNFe {
         }
 
         /**
-         * Obtém o valor da propriedade cuf.
+         * ObtÃ©m o valor da propriedade cuf.
          * 
          * @return
          *     possible object is
@@ -318,7 +318,7 @@ public class TInutNFe {
         }
 
         /**
-         * Obtém o valor da propriedade ano.
+         * ObtÃ©m o valor da propriedade ano.
          * 
          * @return
          *     possible object is
@@ -342,7 +342,7 @@ public class TInutNFe {
         }
 
         /**
-         * Obtém o valor da propriedade cnpj.
+         * ObtÃ©m o valor da propriedade cnpj.
          * 
          * @return
          *     possible object is
@@ -366,7 +366,7 @@ public class TInutNFe {
         }
 
         /**
-         * Obtém o valor da propriedade mod.
+         * ObtÃ©m o valor da propriedade mod.
          * 
          * @return
          *     possible object is
@@ -390,7 +390,7 @@ public class TInutNFe {
         }
 
         /**
-         * Obtém o valor da propriedade serie.
+         * ObtÃ©m o valor da propriedade serie.
          * 
          * @return
          *     possible object is
@@ -414,7 +414,7 @@ public class TInutNFe {
         }
 
         /**
-         * Obtém o valor da propriedade nnfIni.
+         * ObtÃ©m o valor da propriedade nnfIni.
          * 
          * @return
          *     possible object is
@@ -438,7 +438,7 @@ public class TInutNFe {
         }
 
         /**
-         * Obtém o valor da propriedade nnfFin.
+         * ObtÃ©m o valor da propriedade nnfFin.
          * 
          * @return
          *     possible object is
@@ -462,7 +462,7 @@ public class TInutNFe {
         }
 
         /**
-         * Obtém o valor da propriedade xJust.
+         * ObtÃ©m o valor da propriedade xJust.
          * 
          * @return
          *     possible object is
@@ -486,7 +486,7 @@ public class TInutNFe {
         }
 
         /**
-         * Obtém o valor da propriedade id.
+         * ObtÃ©m o valor da propriedade id.
          * 
          * @return
          *     possible object is

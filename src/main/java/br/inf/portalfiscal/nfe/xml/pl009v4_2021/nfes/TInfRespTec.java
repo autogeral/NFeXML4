@@ -1,8 +1,8 @@
 //
-// Este arquivo foi gerado pela Arquitetura JavaTM para Implementa��o de Refer�ncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
+// Este arquivo foi gerado pela Arquitetura JavaTM para Implementaï¿½ï¿½o de Referï¿½ncia (JAXB) de Bind XML, v2.2.8-b130911.1802 
 // Consulte <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
-// Todas as modifica��es neste arquivo ser�o perdidas ap�s a recompila��o do esquema de origem. 
-// Gerado em: 2021.06.14 �s 11:18:47 AM BRT 
+// Todas as modificaï¿½ï¿½es neste arquivo serï¿½o perdidas apï¿½s a recompilaï¿½ï¿½o do esquema de origem. 
+// Gerado em: 2021.06.14 ï¿½s 11:18:47 AM BRT 
 //
 
 
@@ -15,11 +15,11 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * Grupo de informa��es do respons�vel t�cnico pelo sistema de emiss�o de DF-e
+ * Grupo de informaï¿½ï¿½es do responsï¿½vel tï¿½cnico pelo sistema de emissï¿½o de DF-e
  * 
  * <p>Classe Java de TInfRespTec complex type.
  * 
- * <p>O seguinte fragmento do esquema especifica o conte�do esperado contido dentro desta classe.
+ * <p>O seguinte fragmento do esquema especifica o conteï¿½do esperado contido dentro desta classe.
  * 
  * <pre>
  * &lt;complexType name="TInfRespTec">
@@ -100,7 +100,7 @@ public class TInfRespTec {
     protected byte[] hashCSRT;
 
     /**
-     * Obt�m o valor da propriedade cnpj.
+     * Obtï¿½m o valor da propriedade cnpj.
      * 
      * @return
      *     possible object is
@@ -124,7 +124,7 @@ public class TInfRespTec {
     }
 
     /**
-     * Obt�m o valor da propriedade xContato.
+     * Obtï¿½m o valor da propriedade xContato.
      * 
      * @return
      *     possible object is
@@ -148,7 +148,7 @@ public class TInfRespTec {
     }
 
     /**
-     * Obt�m o valor da propriedade email.
+     * Obtï¿½m o valor da propriedade email.
      * 
      * @return
      *     possible object is
@@ -172,7 +172,7 @@ public class TInfRespTec {
     }
 
     /**
-     * Obt�m o valor da propriedade fone.
+     * Obtï¿½m o valor da propriedade fone.
      * 
      * @return
      *     possible object is
@@ -196,7 +196,7 @@ public class TInfRespTec {
     }
 
     /**
-     * Obt�m o valor da propriedade idCSRT.
+     * Obtï¿½m o valor da propriedade idCSRT.
      * 
      * @return
      *     possible object is
@@ -220,7 +220,7 @@ public class TInfRespTec {
     }
 
     /**
-     * Obt�m o valor da propriedade hashCSRT.
+     * Obtï¿½m o valor da propriedade hashCSRT.
      * 
      * @return
      *     possible object is
